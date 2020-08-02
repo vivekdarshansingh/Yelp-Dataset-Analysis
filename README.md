@@ -18,4 +18,4 @@ However, here are some of the knowledge I gained from this SQL Course:
 13. Case Statements
 14. Creating Views
 
-The Entity Diagram (ER Diagram) of the Yelp dataset that we used to analyze the data is being provided in this project. Entity Diagram is basically a diagram with a set of structured tables that are being connected to each other which shows the relation between them accordinging.
+The Entity Diagram (ER Diagram) of the Yelp dataset that is used to analyze the data is being provided in this project. Entity Diagram is basically a diagram with a set of structured tables that are being connected to each other which shows the relation between them accordinging.
