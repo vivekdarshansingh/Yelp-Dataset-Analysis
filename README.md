@@ -1,4 +1,4 @@
-# Yelp-Dataset-Analysi
+# Yelp-Dataset-Analysis
 This project analyze the public Dataset provided by Yelp using SQL. Yelp is Platform for the users to provide reviews and rate their interactions with a variety of organizations like Business, Restaurants, Heath, Clubs, Hospitals, Local Government Offices, Charitable Organisations, etc.
 This project is based on assignments from SQL for Data Science by University of California, Davis on Coursera. Project explores Yelp dataset and prepares the data for predictive modeling of the number of stars that users assign in their reviews. 
 
